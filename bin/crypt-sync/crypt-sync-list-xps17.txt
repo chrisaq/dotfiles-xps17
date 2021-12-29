@@ -1,1 +1,1 @@
-user-config.gpg:.config/git/user-config
+k0sconfig-xps17.gpg:.config/k0s/admin.conf
