@@ -458,6 +458,8 @@ type = internal/backlight
 ; $ ls -1 /sys/class/backlight/
 card = intel_backlight
 
+enable-scroll = true
+
 ; Available tags:
 ;   <label> (default)
 ;   <ramp>
