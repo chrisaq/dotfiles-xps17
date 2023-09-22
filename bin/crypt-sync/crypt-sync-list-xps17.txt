@@ -1,2 +1,3 @@
 k0sconfig-xps17.gpg:.config/k0s/admin.conf
 syncthing-xps17.gpg:.config/syncthing/config.xml
+spotifyd-xps17.gpg:.config/spotifyd/spotifyd.conf
